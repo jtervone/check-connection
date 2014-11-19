@@ -1,4 +1,4 @@
 check-connection
 ================
 
-Creates log of your internet connection
+Simple Bash script which checks status of your internet connection and writes it into log file.
